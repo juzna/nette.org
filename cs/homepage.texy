@@ -26,9 +26,4 @@ Nástroje
 ========
 | [Routing Debugger 2.0 | addons:cs/routing debugger] | Testování rout ve stylu Nette profileru.
 
-Tutoriály
-=========
-
-| [Akrabat | addons:cs/akrabat] | Klasický Zend Framework Tutorial přepsaný pro Nette.
-
 {{author: David Grudl|2}}
