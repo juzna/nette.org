@@ -144,7 +144,8 @@ http://multiplefileupload.projekty.mujserver.net/
 
 SVN
 ---
-https://guest:@svn.mujserver.net:8443/svn/Nette_MultipleFileUpload/trunk/
+https://svn.mujserver.net:8443/svn/Nette_MultipleFileUpload/trunk/ (verze pro PHP 5.2.x) (uživatel: `guest`, heslo: *(nechat prázdné)*)
+
 
 
 {{extras}}
