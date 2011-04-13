@@ -19,6 +19,10 @@ Budoucnost
 - Login Button
 - Live Stream
 
+Změny
+========
+- od v1.1 přidána podpora fluent interface u setterů.
+
 {{extras}}
 
 {{tags: facebook, fbtools}}
