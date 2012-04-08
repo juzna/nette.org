@@ -1,7 +1,7 @@
-"David Grudl":http://forum.nette.org/cs/profile.php?id=2 – MicroFramework
-*************************************************************************
+David Grudl: Microframework
+***************************
 
-Nette 2.0 jako Micro Framework .[perex]
+[David Grudl|user:2] ukazuje, jak použít Nette Framework jako Micro Framework. .[perex]
 
 <iframe width="860" height="467" src="http://www.youtube.com/embed/D1urhQJM0Zk" frameborder="0" allowfullscreen></iframe>
 
@@ -15,7 +15,7 @@ Informace & Stažení
 | Vimeo | http://vimeo.com/35967644
 | YouTube | http://www.youtube.com/watch?v=D1urhQJM0Zk
 
-{{themeicon: icon-movie.png}}{{toc: no}}
+{{themeicon: icon-movie.png}}{{sidebar: no}}
 
 {{tags: video, posobota}}
 
