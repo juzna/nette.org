@@ -1,0 +1,39 @@
+Quickstart
+**********
+
+/--div .[perex]
+This is a walkthrough for your first application in Nette Framework. Let's begin!
+
+.[navig]
+1. [Getting started|quickstart/start]
+2. [Database and model|quickstart/database]
+3. Presenters and templates
+4. Forms
+5. Components
+6. User authentication
+7. AJAX
+8. URL and routing
+9. Deplozment and security
+\--
+
+
+This quickstart was written for Nette v2.0.8 and PHP 5.3 and newer. Checkout your version.
+
+/-- comment
+
+Zdroje
+------
+
+- [doc:quickstart/Co budeme potřebovat?]
+- [doc:quickstart/Adresářová struktura]
+- [doc:quickstart/Vytvoření databáze]
+- [doc:quickstart/Vytvoření presenteru]
+- [doc:quickstart/Vytvoření šablony]
+- [doc:quickstart/Vytvoření modelu]
+- [doc:quickstart/Hezčí šablony]
+- [doc:quickstart/Dokončení základní aplikace]
+- [doc:quickstart/Stránkování a routování]
+- Inzův quick start: http://doc.nette.org/cs/quickstart
+\--
+
+{{themeicon: multimedia-80x80-r9-r1-c2-s1.png}}
